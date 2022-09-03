@@ -1,0 +1,49 @@
+.contain{
+    background-color: rgb(176, 173, 229);
+    margin: -8px;
+    margin-top: -20px;
+}
+.objective{
+    background-color:darkgray;
+    text-align: center;
+    margin: -8px;
+    margin-top: -20px;
+}
+.pobjective{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif;
+}
+.acadamics{background-color:darkgray;
+    text-align: center;
+    margin: -8px;
+    margin-top: -20px;
+    
+}
+table,th,td{
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.skills{
+    background-color:darkgray;
+    text-align: center;
+    margin: -8px;
+    margin-top: -15px;
+}
+.skillsb{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ac{
+    background-color:darkgray;
+    text-align: center;
+    margin: -8px;
+    margin-top: -20px;
+}
+.acb{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
